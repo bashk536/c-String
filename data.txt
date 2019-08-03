@@ -1,0 +1,3 @@
+Hello Hola Namaste Bonjour
+My name is Bash
+And this test better pass...
